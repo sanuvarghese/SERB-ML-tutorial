@@ -1,2 +1,2 @@
 # SERB-ML-tutorial
-Jupyter notebooks forML tutorial at MNIT Jaipur
+Jupyter notebooks for Machine Learning tutorial at MNIT Jaipur
