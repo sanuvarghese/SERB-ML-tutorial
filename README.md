@@ -1,5 +1,6 @@
 # SERB-ML-tutorial
 Jupyter notebooks for Machine Learning tutorial at MNIT Jaipur
+# To get Started
 $git clone https://github.com/sanuvarghese/SERB-ML-tutorial
 $cd SERB-ML-tutorial
 If you dont have pip already installed install pip using $sudo apt install python3-pip
