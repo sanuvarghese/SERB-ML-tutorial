@@ -15,6 +15,7 @@ $ pip uninstall tensorflow -y
 $python3 -m pip install -r requirements.txt
 #
 launch jupyter using $jupyter-notebook
+
 if you dont have jupyter,install using $ python3 -m pip install jupyter 
 
 # You can also run this on binder without the need to install anything by clicking the binder link below.
