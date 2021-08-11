@@ -12,7 +12,7 @@ $ pip uninstall keras -y
 #
 $ pip uninstall tensorflow -y
 #
-$python3 -m pip install -r requirements.txt
+$ python3 -m pip install -r requirements.txt
 #
 launch jupyter using $jupyter-notebook
 
