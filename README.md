@@ -18,7 +18,7 @@ if you dont have jupyter,install using $ python3 -m pip install jupyter
 
 launch jupyter using $ jupyter-notebook
 
-# Alternatively you can create a python3 virtual environment with anaconda or vitualenv and repeat the steps above 
+#### Alternatively you can create a python3 virtual environment with anaconda or vitualenv and repeat the steps above 
 
 
 
