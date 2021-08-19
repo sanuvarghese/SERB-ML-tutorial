@@ -18,6 +18,8 @@ if you dont have jupyter,install using $ python3 -m pip install jupyter
 
 launch jupyter using $ jupyter-notebook
 
+# Alternatively you can create a python3 virtual environment with anaconda or vitualenv and repeat the steps above 
+
 
 
 # You can also run this on binder without the need to install anything by clicking the binder link below.
