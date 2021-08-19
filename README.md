@@ -20,5 +20,5 @@ launch jupyter using $ jupyter-notebook
 
 
 
-# You can also run this on binder without the need to install anything by clicking the binder link below.
+## You can also run this on binder without the need to install anything by clicking the binder link below.
 https://mybinder.org/v2/gh/sanuvarghese/SERB-ML-tutorial/7142680059cfd166a6713fcd0013b969961b63c3
